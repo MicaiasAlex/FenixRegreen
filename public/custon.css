@@ -154,7 +154,6 @@ body {
     font-weight: 700;
     font-size: 1rem;
     padding: 0.6rem 1rem;
-    box-shadow: 3px 6px 0 #894343;
 }
 
 .btn-auth-primary:hover,
@@ -376,7 +375,7 @@ body.fonte-grande {
 .footer-list li {
     font-size: 0.95rem;
     margin-bottom: 0.35rem;
-    grid: ;
+    
 }
 
 /* LINKS */
